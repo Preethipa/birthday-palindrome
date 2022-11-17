@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Cabin&family=Karla&family=Lato&family=Merriweather&family=Playfair+Display&family=Secular+One&family=Sono&family=Source+Sans+Pro&display=swap');
+
+body{
+  background-color:#fdf4ff;
+  primary-color:#c026d3;
+  font-family: 'Cabin', sans-serif;
+}
+
+h1{
+  margin-top: 5rem;
+  color:#c026d3;
+ 
+}
+.container{
+  margin: auto;
+  text-align: center;
+}
+
+input{
+  margin-top: 1.5rem;
+  padding: 0.5rem 0.5rem;
+  border-color:#c026d3;
+}
+
+button{
+  padding: 0.4rem 0.5rem;
+  margin-right: 5px;
+  background:transparent;
+  border-color:#c026d3;
+  border-width:medium;
+  background-color:#c026d3;
+  color:white;
+  font-family: 'Cabin', sans-serif;
+}
+
+#output{
+  margin-top:5rem;
+  text-size: x-large;
+  color: #a21caf;
+}
